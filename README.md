@@ -1,1 +1,1 @@
-ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
