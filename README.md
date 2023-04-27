@@ -1,1 +1,1 @@
-Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
