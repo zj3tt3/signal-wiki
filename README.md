@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Update the heatmap module code + docs (#7045)
