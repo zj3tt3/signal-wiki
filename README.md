@@ -1,1 +1,1 @@
-fix predict with class filter
+Batch inference fixes (#8854)
