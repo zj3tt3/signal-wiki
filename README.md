@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Move Explorer tests to scheduled CI (#8305)
