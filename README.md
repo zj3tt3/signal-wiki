@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+OpenVino 2024.0.0 (#8726)
