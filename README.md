@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Add OBB benchmarks to CI (#7777)
