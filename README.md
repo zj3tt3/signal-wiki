@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Add Neural Magic Docs integrations page (#7234)
