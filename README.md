@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
