@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
