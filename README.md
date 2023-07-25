@@ -1,1 +1,1 @@
-fix print val map
+Batch inference fixes (#8854)
