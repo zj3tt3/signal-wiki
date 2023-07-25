@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
