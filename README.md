@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
