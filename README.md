@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Replacing Images for torchscript.md (#8596)
