@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
