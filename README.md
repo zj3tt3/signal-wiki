@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+fix export tensorrt with dynamic size
