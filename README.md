@@ -1,1 +1,1 @@
-ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
+ultralytics 8.1.20 add YOLOv8x-World support (#8539)
