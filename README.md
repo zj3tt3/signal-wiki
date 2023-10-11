@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Add dota8.yaml and O tests (#7394)
