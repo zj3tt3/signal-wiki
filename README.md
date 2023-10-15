@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Update pyproject.toml and Docs (#7274)
