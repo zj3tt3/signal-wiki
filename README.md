@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Avoid creating -hub dir without processing images (#8334)
