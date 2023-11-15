@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Fix TypeError in check_cfg() (#9245)
