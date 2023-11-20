@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+Add visuals in guides/distance-calculation.md (#7876)
