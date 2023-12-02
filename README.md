@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Update pyproject.toml and Docs (#7274)
