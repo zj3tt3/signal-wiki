@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Update Twitter icon in Docs (#7711)
