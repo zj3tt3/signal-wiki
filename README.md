@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
