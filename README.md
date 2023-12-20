@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Update H1 in Explorer API docs (#7813)
