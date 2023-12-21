@@ -1,1 +1,1 @@
-Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
