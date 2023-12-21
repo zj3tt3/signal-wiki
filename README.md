@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
