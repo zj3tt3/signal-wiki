@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
