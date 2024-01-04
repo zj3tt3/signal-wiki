@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
