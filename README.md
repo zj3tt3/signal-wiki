@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
