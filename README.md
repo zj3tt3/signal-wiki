@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
