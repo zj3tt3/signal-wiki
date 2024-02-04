@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
