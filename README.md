@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
