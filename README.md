@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
