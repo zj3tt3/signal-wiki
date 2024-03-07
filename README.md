@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Resize angle, count, and stage on keypoint number change (#7598)
