@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
