@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
