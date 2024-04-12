@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
