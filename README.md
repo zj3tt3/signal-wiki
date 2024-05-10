@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Add dota8.yaml and O tests (#7394)
