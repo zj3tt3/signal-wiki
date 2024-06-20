@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Fix RTDETR generate anchor grid out of boundary (#7247)
