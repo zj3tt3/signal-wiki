@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+New HUB Cloud Training docs page (#8174)
