@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+fix yolo classify model loading error (#9196)
