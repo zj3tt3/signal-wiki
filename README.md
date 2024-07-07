@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Update CI.md with CI links (#8786)
