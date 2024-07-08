@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Add OBB benchmarks to CI (#7777)
