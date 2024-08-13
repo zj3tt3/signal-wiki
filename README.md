@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Update CITATION.cff with cffinit corrections (#8658)
