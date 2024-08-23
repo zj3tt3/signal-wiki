@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
