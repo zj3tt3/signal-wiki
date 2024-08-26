@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
