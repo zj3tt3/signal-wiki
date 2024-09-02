@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Add horizontal Mosaic3 augmentation (#6898)
