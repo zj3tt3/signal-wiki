@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
