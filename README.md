@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
