@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
