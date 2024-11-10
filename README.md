@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
