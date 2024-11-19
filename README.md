@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
